@@ -51,8 +51,14 @@
 | grill-me | [mattpocock/skills](https://github.com/mattpocock/skills) | `skills/productivity/grill-me` |
 | code-review | mattpocock/skills | `skills/engineering/code-review` |
 | frontend-design | [anthropics/skills](https://github.com/anthropics/skills) | `skills/frontend-design` |
+| ponytail | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | `skills/ponytail` |
+| ponytail-audit | DietrichGebert/ponytail | `skills/ponytail-audit` |
+| ponytail-debt | DietrichGebert/ponytail | `skills/ponytail-debt` |
+| ponytail-gain | DietrichGebert/ponytail | `skills/ponytail-gain` |
+| ponytail-help | DietrichGebert/ponytail | `skills/ponytail-help` |
+| ponytail-review | DietrichGebert/ponytail | `skills/ponytail-review` |
 
-共 38 个技能：superpowers 15、openspec 12、vuejs-ai 8、mattpocock 2、anthropics 1。
+共 44 个技能：superpowers 15、openspec 12、vuejs-ai 8、ponytail 6、mattpocock 2、anthropics 1。
 
 ## 许可
 
